@@ -110,18 +110,8 @@ project-root/
    ```bash
    npm install
    ```
-
-3. **Create environment file:**
-   ```bash
-   cp .env.example .env
-   ```
-
-4. **Configure environment variables in `.env`:**
-   ```env
-   VITE_API_BASE_URL=http://localhost:5000/api
-   ```
-
-5. **Start the frontend development server:**
+   
+3. **Start the frontend development server:**
    ```bash
    npm run dev
    ```
