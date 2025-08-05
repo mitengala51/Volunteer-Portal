@@ -91,7 +91,7 @@ volunteer-application-system/
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/volunteer-application-system.git
+git clone https://github.com/mitengala51/Volunteer-Portal.git
 cd volunteer-application-system
 ```
 
