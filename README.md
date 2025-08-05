@@ -127,7 +127,7 @@ FRONTEND_URL="http://localhost:5173"
 **Start the backend server:**
 ```bash
 # Development mode with hot reload
-npm run dev
+node server.js
 
 # Production mode
 npm start
