@@ -1,4 +1,4 @@
-# Volunteer Application System (MERN Stack)
+# Volunteer-Portal (MERN Stack)
 
 A comprehensive full-stack web application for managing volunteer and intern applications, built with MongoDB, Express.js, React.js, and Node.js. This system provides a seamless experience for volunteers to apply and administrators to manage applications efficiently.
 
@@ -92,7 +92,7 @@ volunteer-application-system/
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/mitengala51/Volunteer-Portal.git
-cd volunteer-application-system
+cd Volunteer-Portal
 ```
 
 #### 2. Backend Configuration
